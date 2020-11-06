@@ -3,3 +3,5 @@ django-cors-headers==3.5.0
 django-crispy-forms==1.9.2
 djangorestframework==3.12.1
 psycopg2
+gunicorn
+django-heroku
